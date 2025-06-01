@@ -1,0 +1,811 @@
+Land Type,Price,Price per m2,Area,City
+Đất nền dự án • Ngang 5 m,"2,35 tỷ",24 tr/m²,100 m²,Quảng Nam
+"4 PN • Nhà mặt phố, mặt tiền","3,6 tỷ",19 tr/m²,185 m²,Đồng Nai
+"3 PN • Nhà ngõ, hẻm","3,35 tỷ",70 tr/m²,48 m²,Đà Nẵng
+3 PN • Chung cư,"2,85 tỷ",32 tr/m²,90 m²,Tp Hồ Chí Minh
+"2 PN • Nhà mặt phố, mặt tiền","2,35 tỷ",16 tr/m²,150 m²,Bình Dương
+"3 PN • Nhà ngõ, hẻm","3,65 tỷ",65 tr/m²,56 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","4,39 tỷ",108 tr/m²,41 m²,Tp Hồ Chí Minh
+"5 PN • Nhà ngõ, hẻm",5 tỷ,54 tr/m²,93 m²,Tp Hồ Chí Minh
+"5 PN • Nhà ngõ, hẻm",5 tỷ,78 tr/m²,64 m²,Tp Hồ Chí Minh
+"4 PN • Hướng Tây Bắc • Nhà mặt phố, mặt tiền","7,5 tỷ",89 tr/m²,84 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","3,6 tỷ",106 tr/m²,34 m²,Tp Hồ Chí Minh
+2 PN • Hướng Tây Bắc • Chung cư,"1,7 tỷ",24 tr/m²,72 m²,Đà Nẵng
+"5 PN • Nhà ngõ, hẻm","5,5 tỷ",87 tr/m²,63 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm",5 tỷ,60 tr/m²,83 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","5,2 tỷ",87 tr/m²,60 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Tây Bắc • Nhà ngõ, hẻm","2,38 tỷ",82 tr/m²,29 m²,Tp Hồ Chí Minh
+5 PN • Nhà biệt thự,"8,5 tỷ",15 tr/m²,557 m²,Bình Dương
+"3 PN • Nhà ngõ, hẻm",5 tỷ,83 tr/m²,60 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","4,6 tỷ",170 tr/m²,27 m²,Tp Hồ Chí Minh
+"3 PN • Hướng Tây Nam • Nhà ngõ, hẻm","4,95 tỷ",99 tr/m²,50 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm",5 tỷ,93 tr/m²,54 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm",7 tỷ,159 tr/m²,44 m²,Hà Nội
+"2 PN • Hướng Đông Nam • Nhà ngõ, hẻm",990 triệu,28 tr/m²,35 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 5.1 m,519 triệu,"3,7 tr/m²",139 m²,Tây Ninh
+"2 PN • Nhà ngõ, hẻm","3,95 tỷ",94 tr/m²,42 m²,Tp Hồ Chí Minh
+3 PN • Hướng Nam • Nhà phố liền kề,"2,3 tỷ",24 tr/m²,95 m²,Đồng Nai
+Đất thổ cư • Ngang 5 m,"1,039 tỷ",13 tr/m²,80 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 4 m,"3,906 tỷ",69 tr/m²,57 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 15 m,550 triệu,"1,8 tr/m²",300 m²,Tây Ninh
+Đất nền dự án • Ngang 5 m,"3,2 tỷ",32 tr/m²,100 m²,Đà Nẵng
+"3 PN • Nhà ngõ, hẻm","4,7 tỷ",94 tr/m²,50 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Tây Nam • Nhà ngõ, hẻm","1,45 tỷ",36 tr/m²,40 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm",5 tỷ,80 tr/m²,63 m²,Tp Hồ Chí Minh
+3 PN • Chung cư,21 tỷ,150 tr/m²,140 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,"20,5 tỷ",289 tr/m²,71 m²,Tp Hồ Chí Minh
+1 PN • Chung cư,"10,2 tỷ",179 tr/m²,57 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,19 tỷ,264 tr/m²,72 m²,Tp Hồ Chí Minh
+4 PN • Chung cư,38 tỷ,224 tr/m²,170 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","3,78 tỷ",68 tr/m²,56 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","5,4 tỷ",84 tr/m²,64 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Tây • Nhà ngõ, hẻm","1,35 tỷ",41 tr/m²,33 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 5 m,"3,5 tỷ",35 tr/m²,100 m²,Đà Nẵng
+Đất thổ cư • Ngang 5 m,"2,65 tỷ",27 tr/m²,100 m²,Đà Nẵng
+"5 PN • Nhà ngõ, hẻm",5 tỷ,90 tr/m²,55 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","3,6 tỷ",133 tr/m²,27 m²,Tp Hồ Chí Minh
+1 PN • Hướng Tây Bắc • Chung cư,"2,828 tỷ",66 tr/m²,43 m²,Hà Nội
+"3 PN • Nhà ngõ, hẻm","5,6 tỷ",92 tr/m²,61 m²,Tp Hồ Chí Minh
+2 PN • Hướng Nam • Chung cư,3 tỷ,42 tr/m²,72 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Đông • Nhà ngõ, hẻm","7,545 tỷ",216 tr/m²,35 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 4 m,"6,2 tỷ",63 tr/m²,98 m²,Tp Hồ Chí Minh
+"3 PN • Nhà mặt phố, mặt tiền","6,5 tỷ",93 tr/m²,70 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","5,999 tỷ",95 tr/m²,63 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,15 tỷ,192 tr/m²,78 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,14 tỷ,171 tr/m²,82 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,"14,5 tỷ",193 tr/m²,75 m²,Tp Hồ Chí Minh
+8 PN • Nhà biệt thự,45 tỷ,225 tr/m²,200 m²,Tp Hồ Chí Minh
+"5 PN • Nhà ngõ, hẻm","6,3 tỷ",119 tr/m²,53 m²,Tp Hồ Chí Minh
+"8 PN • Hướng Đông Nam • Nhà ngõ, hẻm","9,2 tỷ",153 tr/m²,60 m²,Tp Hồ Chí Minh
+3 PN • Hướng Đông Bắc • Nhà biệt thự,10 tỷ,17 tr/m²,606 m²,Khánh Hòa
+"3 PN • Nhà ngõ, hẻm","6,3 tỷ",56 tr/m²,112 m²,Tp Hồ Chí Minh
+Đất thổ cư,"5,9 tỷ",24 tr/m²,250 m²,Long An
+"4 PN • Nhà ngõ, hẻm","5,6 tỷ",93 tr/m²,60 m²,Tp Hồ Chí Minh
+5 PN • Nhà phố liền kề,"6,45 tỷ",124 tr/m²,52 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,8 tỷ",79 tr/m²,61 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Đông Bắc • Nhà mặt phố, mặt tiền","1,2 tỷ",17 tr/m²,70 m²,Bình Dương
+"3 PN • Nhà ngõ, hẻm","5,6 tỷ",69 tr/m²,81 m²,Tp Hồ Chí Minh
+1 PN • Chung cư,"1,6 tỷ",37 tr/m²,44 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,4 tỷ",176 tr/m²,25 m²,Tp Hồ Chí Minh
+Đất nông nghiệp • Ngang 65 m,"36,6 tỷ","3,9 tr/m²",9420 m²,Đồng Nai
+Đất thổ cư • Ngang 12 m,"9,3 tỷ",14 tr/m²,670 m²,Cần Thơ
+Đất thổ cư,"7,9 tỷ","1,9 tr/m²",4062 m²,Đồng Nai
+2 PN • Chung cư,"1,1 tỷ",22 tr/m²,51 m²,Đà Nẵng
+"3 PN • Nhà ngõ, hẻm",12 tỷ,66 tr/m²,182 m²,Tp Hồ Chí Minh
+Đất nông nghiệp • Ngang 25 m,"4,7 tỷ",6 tr/m²,786 m²,Tp Hồ Chí Minh
+5 PN • Nhà phố liền kề,"13,2 tỷ",264 tr/m²,50 m²,Hà Nội
+"1 PN • Nhà ngõ, hẻm","1,15 tỷ",50 tr/m²,23 m²,Hà Nội
+Đất nông nghiệp • Ngang 120 m,30 tỷ,30000 m²,,Đồng Nai
+"1 PN • Nhà ngõ, hẻm","3,45 tỷ",101 tr/m²,34 m²,Hà Nội
+5 PN • Hướng Tây Bắc • Nhà biệt thự,"23,8 tỷ",107 tr/m²,223 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","5,4 tỷ",169 tr/m²,32 m²,Tp Hồ Chí Minh
+"1 PN • Nhà ngõ, hẻm","1,42 tỷ",41 tr/m²,35 m²,Tp Hồ Chí Minh
+"10 PN • Nhà ngõ, hẻm","7,85 tỷ",46 tr/m²,172 m²,Tp Hồ Chí Minh
+Đất nông nghiệp • Ngang 15 m,670 triệu,"1,3 tr/m²",509 m²,Tiền Giang
+5 PN • Nhà biệt thự,24 tỷ,150 tr/m²,160 m²,Tp Hồ Chí Minh
+3 PN • Hướng Đông • Nhà phố liền kề,"1,5 tỷ",63 tr/m²,24 m²,Tp Hồ Chí Minh
+Đất nền dự án • Ngang 4.5 m,2 tỷ,20 tr/m²,100 m²,Long An
+2 PN • Hướng Đông • Chung cư,"2,65 tỷ",45 tr/m²,59 m²,Tp Hồ Chí Minh
+Đất nông nghiệp • Ngang 24 m,"1,35 tỷ","1,3 tr/m²",1063 m²,Tiền Giang
+3 PN • Chung cư,"5,7 tỷ",56 tr/m²,102 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 4 m,"4,2 tỷ",79 tr/m²,53 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm",6 tỷ,150 tr/m²,40 m²,Tp Hồ Chí Minh
+8 PN • Hướng Bắc • Nhà phố liền kề,"9,8 tỷ",196 tr/m²,50 m²,Hà Nội
+Mặt bằng kinh doanh • Nội thất đầy đủ,20 tỷ,52 m²,,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 18 m,"9,6 tỷ","7,2 tr/m²",1339 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","3,8 tỷ",73 tr/m²,52 m²,Tp Hồ Chí Minh
+"1 PN • Nhà mặt phố, mặt tiền","19,9 tỷ",111 tr/m²,180 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Đông • Nhà ngõ, hẻm",850 triệu,10 tr/m²,85 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,"3,1 tỷ",44 tr/m²,70 m²,Tp Hồ Chí Minh
+"3 PN • Nhà mặt phố, mặt tiền",5 tỷ,125 tr/m²,40 m²,Tp Hồ Chí Minh
+"3 PN • Hướng Tây • Nhà ngõ, hẻm","4,95 tỷ",275 tr/m²,18 m²,Hà Nội
+2 PN • Chung cư,"3,9 tỷ",52 tr/m²,75 m²,Tp Hồ Chí Minh
+4 PN • Nhà phố liền kề,"23,8 tỷ",92 tr/m²,260 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,"2,38 tỷ",32 tr/m²,75 m²,Tp Hồ Chí Minh
+"1 PN • Nhà ngõ, hẻm","7,5 tỷ",94 tr/m²,80 m²,Tp Hồ Chí Minh
+"5 PN • Nhà ngõ, hẻm","6,45 tỷ",108 tr/m²,60 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm",3 tỷ,30 tr/m²,100 m²,Tp Hồ Chí Minh
+"2 PN • Nhà mặt phố, mặt tiền","3,1 tỷ",78 tr/m²,40 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","6,5 tỷ",48 tr/m²,135 m²,Tp Hồ Chí Minh
+"3 PN • Nhà mặt phố, mặt tiền","6,7 tỷ",45 tr/m²,150 m²,Bình Dương
+"3 PN • Nhà ngõ, hẻm","4,95 tỷ",63 tr/m²,79 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","4,8 tỷ",79 tr/m²,61 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,"3,28 tỷ",49 tr/m²,67 m²,Tp Hồ Chí Minh
+Đất nông nghiệp • Ngang 26 m,"1,8 tỷ","1,8 tr/m²",1000 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,85 tỷ",61 tr/m²,80 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,3 tỷ,43 tr/m²,70 m²,Tp Hồ Chí Minh
+"4 PN • Nhà mặt phố, mặt tiền","8,3 tỷ",167 tr/m²,50 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 30 m,"32,5 tỷ",14 tr/m²,2385 m²,Tp Hồ Chí Minh
+Đất nông nghiệp • Ngang 24 m,6 tỷ,5 tr/m²,1200 m²,Tp Hồ Chí Minh
+3 PN • Chung cư,"2,99 tỷ",40 tr/m²,75 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 5 m,595 triệu,"5,4 tr/m²",110 m²,Lâm Đồng
+1 PN • Chung cư,"2,1 tỷ",42 tr/m²,50 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","6,8 tỷ",100 tr/m²,68 m²,Tp Hồ Chí Minh
+3 PN • Chung cư,"2,99 tỷ",40 tr/m²,75 m²,Tp Hồ Chí Minh
+4 PN • Hướng Tây Nam • Nhà phố liền kề,9 tỷ,86 tr/m²,105 m²,Tp Hồ Chí Minh
+"3 PN • Nhà mặt phố, mặt tiền","3,5 tỷ",33 tr/m²,107 m²,Bình Dương
+"3 PN • Hướng Tây • Nhà ngõ, hẻm",3 tỷ,20 tr/m²,150 m²,Long An
+"4 PN • Nhà mặt phố, mặt tiền","3,65 tỷ",29 tr/m²,125 m²,Đà Nẵng
+"9 PN • Nhà mặt phố, mặt tiền",40 tỷ,400 tr/m²,100 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","6,69 tỷ",149 tr/m²,45 m²,Tp Hồ Chí Minh
+8 PN • Nhà biệt thự,45 tỷ,225 tr/m²,200 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,"1,68 tỷ",27 tr/m²,62 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","10,5 tỷ",202 tr/m²,52 m²,Tp Hồ Chí Minh
+1 PN • Chung cư,650 triệu,20 tr/m²,32 m²,Bình Thuận
+"2 PN • Nhà ngõ, hẻm","1,18 tỷ",118 tr/m²,10 m²,Tp Hồ Chí Minh
+"5 PN • Nhà mặt phố, mặt tiền","10,5 tỷ",328 tr/m²,32 m²,Hà Nội
+Đất nông nghiệp • Ngang 65 m,730 triệu,< 1 tr/m²,732 m²,Long An
+3 PN • Hướng Bắc • Chung cư,"2,975 tỷ",40 tr/m²,75 m²,Tp Hồ Chí Minh
+"3 PN • Nhà mặt phố, mặt tiền",6 tỷ,71 tr/m²,84 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","3,38 tỷ",85 tr/m²,40 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Đông Nam • Nhà ngõ, hẻm","5,835 tỷ",133 tr/m²,44 m²,Tp Hồ Chí Minh
+3 PN • Duplex,"6,7 tỷ",52 tr/m²,130 m²,Tp Hồ Chí Minh
+Đất thổ cư,10 tỷ,60 tr/m²,167 m²,Long An
+"3 PN • Hướng Đông Nam • Nhà ngõ, hẻm","6,9 tỷ",192 tr/m²,36 m²,Hà Nội
+Đất thổ cư • Ngang 5 m,"1,45 tỷ",10 tr/m²,144 m²,Hà Nội
+"3 PN • Hướng Tây Bắc • Nhà mặt phố, mặt tiền","14,5 tỷ",422 tr/m²,34 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","3,95 tỷ",94 tr/m²,42 m²,Tp Hồ Chí Minh
+1 PN • Hướng Nam • Chung cư,"1,35 tỷ",27 tr/m²,50 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,225 triệu,"7,5 tr/m²",30 m²,Bình Dương
+2 PN • Chung cư,"2,7 tỷ",52 tr/m²,52 m²,Đà Nẵng
+2 PN • Chung cư,357 triệu,12 tr/m²,30 m²,Bình Dương
+"3 PN • Nhà ngõ, hẻm","7,38 tỷ",185 tr/m²,40 m²,Tp Hồ Chí Minh
+Đất nông nghiệp • Ngang 10 m,"6,08 tỷ",19 tr/m²,320 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","5,15 tỷ",161 tr/m²,32 m²,Tp Hồ Chí Minh
+"7 PN • Nhà ngõ, hẻm","5,5 tỷ",138 tr/m²,40 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","3,1 tỷ",91 tr/m²,34 m²,Hà Nội
+"2 PN • Nhà ngõ, hẻm","5,45 tỷ",91 tr/m²,60 m²,Tp Hồ Chí Minh
+"6 PN • Nhà ngõ, hẻm","5,5 tỷ",138 tr/m²,40 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","5,1 tỷ",106 tr/m²,48 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","5,94 tỷ",129 tr/m²,46 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","5,5 tỷ",145 tr/m²,38 m²,Tp Hồ Chí Minh
+3 PN • Hướng Bắc • Nhà phố liền kề,"3,95 tỷ",55 tr/m²,72 m²,Bình Dương
+"4 PN • Nhà ngõ, hẻm","7,19 tỷ",100 tr/m²,72 m²,Tp Hồ Chí Minh
+"4 PN • Nhà mặt phố, mặt tiền","12,88 tỷ",227 tr/m²,57 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","3,3 tỷ",105 tr/m²,31 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,"1,53 tỷ",31 tr/m²,50 m²,Tp Hồ Chí Minh
+1 PN • Chung cư,"1,15 tỷ",30 tr/m²,38 m²,Tp Hồ Chí Minh
+"5 PN • Nhà mặt phố, mặt tiền","9,5 tỷ",148 tr/m²,64 m²,Tp Hồ Chí Minh
+"3 PN • Nhà mặt phố, mặt tiền","7,89 tỷ",188 tr/m²,42 m²,Hà Nội
+"3 PN • Hướng Đông Nam • Nhà ngõ, hẻm","8,8 tỷ",210 tr/m²,42 m²,Hà Nội
+Đất thổ cư • Ngang 6 m,"8,7 tỷ",100 tr/m²,87 m²,Hà Nội
+"3 PN • Nhà mặt phố, mặt tiền","16,7 tỷ",407 tr/m²,41 m²,Hà Nội
+1 PN • Chung cư,"1,47 tỷ",31 tr/m²,47 m²,Tp Hồ Chí Minh
+1 PN • Chung cư,"1,6 tỷ",46 tr/m²,35 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","7,9 tỷ",61 tr/m²,130 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,65 tỷ",103 tr/m²,45 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","4,65 tỷ",95 tr/m²,49 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,9 tỷ",136 tr/m²,36 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 5.4 m,"2,15 tỷ",20 tr/m²,109 m²,Bình Dương
+"10 PN • Nhà mặt phố, mặt tiền","11,5 tỷ",139 tr/m²,83 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Tây Nam • Nhà ngõ, hẻm","2,4 tỷ",100 tr/m²,24 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,4 tỷ,57 tr/m²,70 m²,Hà Nội
+Đất nền dự án • Ngang 13.6 m,10 tỷ,30 tr/m²,328 m²,Long An
+"2 PN • Nhà ngõ, hẻm","6,3 tỷ",124 tr/m²,51 m²,Tp Hồ Chí Minh
+"4 PN • Nhà mặt phố, mặt tiền","1,1 tỷ","9,3 tr/m²",118 m²,Tp Hồ Chí Minh
+"5 PN • Nhà ngõ, hẻm","7,1 tỷ",91 tr/m²,78 m²,Tp Hồ Chí Minh
+"4 PN • Hướng Đông Bắc • Nhà ngõ, hẻm","7,5 tỷ",167 tr/m²,45 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Tây • Nhà ngõ, hẻm",700 triệu,"2,8 tr/m²",255 m²,Tây Ninh
+"4 PN • Nhà ngõ, hẻm","5,6 tỷ",100 tr/m²,56 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 13.9 m,15 tỷ,30 tr/m²,501 m²,Tp Hồ Chí Minh
+1 PN • Chung cư,"1,75 tỷ",44 tr/m²,40 m²,Tp Hồ Chí Minh
+"4 PN • Nhà mặt phố, mặt tiền",13 tỷ,113 tr/m²,115 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,"1,7 tỷ",33 tr/m²,51 m²,Đồng Nai
+"5 PN • Nhà mặt phố, mặt tiền","11,8 tỷ",169 tr/m²,70 m²,Tp Hồ Chí Minh
+Đất thổ cư,"8,99 tỷ",40 tr/m²,223 m²,Tp Hồ Chí Minh
+1 PN • Officetel,"1,99 tỷ",54 tr/m²,37 m²,Tp Hồ Chí Minh
+4 PN • Nhà biệt thự,22 tỷ,54 tr/m²,405 m²,Tp Hồ Chí Minh
+Đất nông nghiệp,790 triệu,< 1 tr/m²,5000 m²,Đồng Nai
+"3 PN • Nhà ngõ, hẻm","6,8 tỷ",136 tr/m²,50 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 5 m,"4,9 tỷ",49 tr/m²,100 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 80 m,5 tỷ,< 1 tr/m²,6072 m²,Đồng Nai
+"3 PN • Nhà ngõ, hẻm","4,18 tỷ",84 tr/m²,50 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","10,9 tỷ",218 tr/m²,50 m²,Hà Nội
+2 PN • Chung cư,375 triệu,13 tr/m²,30 m²,Bình Dương
+"nhiều hơn 10 PN • Hướng Đông Bắc • Căn hộ dịch vụ, mini",18 tỷ,35 tr/m²,520 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","3,3 tỷ",52 tr/m²,64 m²,Tp Hồ Chí Minh
+"5 PN • Hướng Đông Nam • Nhà ngõ, hẻm","7,3 tỷ",209 tr/m²,35 m²,Hà Nội
+Đất thổ cư • Ngang 7 m,"2,3 tỷ","9,5 tr/m²",243 m²,Bà Rịa - Vũng Tàu
+"4 PN • Nhà ngõ, hẻm","7,1 tỷ",120 tr/m²,59 m²,Tp Hồ Chí Minh
+"5 PN • Hướng Tây Bắc • Nhà ngõ, hẻm","6,8 tỷ",119 tr/m²,57 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","1,95 tỷ",65 tr/m²,30 m²,Đà Nẵng
+Mặt bằng kinh doanh • Hoàn thiện cơ bản,"3,6 tỷ",12 m²,,Tp Hồ Chí Minh
+"nhiều hơn 10 PN • Nhà mặt phố, mặt tiền",48 tỷ,265 tr/m²,181 m²,Tp Hồ Chí Minh
+"1 PN • Nhà ngõ, hẻm","1,35 tỷ",135 tr/m²,10 m²,Tp Hồ Chí Minh
+4 PN • Nhà phố liền kề,8 tỷ,133 tr/m²,60 m²,Tp Hồ Chí Minh
+3 PN • Hướng Tây Bắc • Nhà phố liền kề,"7,5 tỷ",100 tr/m²,75 m²,Tp Hồ Chí Minh
+"3 PN • Nhà mặt phố, mặt tiền","3,3 tỷ",37 tr/m²,90 m²,Long An
+3 PN • Chung cư,"5,55 tỷ",45 tr/m²,122 m²,Bà Rịa - Vũng Tàu
+Đất thổ cư • Ngang 6 m,"12,5 tỷ",128 tr/m²,98 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Nam • Nhà ngõ, hẻm","1,1 tỷ",23 tr/m²,48 m²,Long An
+"3 PN • Nhà ngõ, hẻm","4,68 tỷ",78 tr/m²,60 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm",4 tỷ,91 tr/m²,44 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,7 tỷ",102 tr/m²,46 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,645 triệu,22 tr/m²,30 m²,Bình Dương
+"3 PN • Nhà ngõ, hẻm","7,5 tỷ",96 tr/m²,78 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,"2,9 tỷ",41 tr/m²,70 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Đông Nam • Nhà ngõ, hẻm","10,5 tỷ",184 tr/m²,57 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","6,7 tỷ",129 tr/m²,52 m²,Tp Hồ Chí Minh
+1 PN • Hướng Tây Bắc • Chung cư,"3,01 tỷ",59 tr/m²,51 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","4,6 tỷ",88 tr/m²,52 m²,Tp Hồ Chí Minh
+"4 PN • Hướng Tây Bắc • Nhà ngõ, hẻm","4,95 tỷ",95 tr/m²,52 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","4,68 tỷ",90 tr/m²,52 m²,Tp Hồ Chí Minh
+"6 PN • Nhà mặt phố, mặt tiền",27 tỷ,355 tr/m²,76 m²,Tp Hồ Chí Minh
+"3 PN • Hướng Đông Bắc • Nhà ngõ, hẻm","9,5 tỷ",143 tr/m²,66 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Đông • Nhà ngõ, hẻm","1,85 tỷ",46 tr/m²,40 m²,Thừa Thiên Huế
+Đất thổ cư,"6,232 tỷ",16 tr/m²,390 m²,Bình Thuận
+2 PN • Hướng Tây Bắc • Chung cư,"1,39 tỷ",24 tr/m²,57 m²,Tp Hồ Chí Minh
+"6 PN • Nhà mặt phố, mặt tiền",19 tỷ,176 tr/m²,108 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","7,1 tỷ",116 tr/m²,61 m²,Hà Nội
+"6 PN • Nhà mặt phố, mặt tiền","9,8 tỷ",109 tr/m²,90 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","1,79 tỷ",50 tr/m²,36 m²,Tp Hồ Chí Minh
+4 PN • Chung cư,130 triệu,"3,4 tr/m²",38 m²,Bình Dương
+4 PN • Nhà phố liền kề,"11,9 tỷ",125 tr/m²,95 m²,Tp Hồ Chí Minh
+"5 PN • Nhà mặt phố, mặt tiền","6,2 tỷ",148 tr/m²,42 m²,Hà Nội
+"7 PN • Nhà ngõ, hẻm",35 tỷ,152 tr/m²,230 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm",8 tỷ,43 tr/m²,187 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,"3,5 tỷ",78 tr/m²,45 m²,Tp Hồ Chí Minh
+6 PN • Nhà phố liền kề,"8,78 tỷ",137 tr/m²,64 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","7,488 tỷ",99 tr/m²,76 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 5 m,"3,55 tỷ",36 tr/m²,100 m²,Bình Định
+3 PN • Chung cư,4 tỷ,49 tr/m²,82 m²,Đà Nẵng
+2 PN • Chung cư,"4,3 tỷ",62 tr/m²,69 m²,Tp Hồ Chí Minh
+"6 PN • Nhà ngõ, hẻm","8,85 tỷ",123 tr/m²,72 m²,Tp Hồ Chí Minh
+"4 PN • Hướng Nam • Nhà mặt phố, mặt tiền","5,799 tỷ",58 tr/m²,100 m²,Đà Nẵng
+"4 PN • Nhà ngõ, hẻm","6,9 tỷ",153 tr/m²,45 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","1,95 tỷ",98 tr/m²,20 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","2,1 tỷ",150 tr/m²,14 m²,Tp Hồ Chí Minh
+"5 PN • Nhà mặt phố, mặt tiền","12,5 tỷ",357 tr/m²,35 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 6 m,680 triệu,"3,6 tr/m²",189 m²,Bà Rịa - Vũng Tàu
+2 PN • Chung cư,"1,95 tỷ",28 tr/m²,70 m²,Bình Dương
+"2 PN • Nhà ngõ, hẻm","2,05 tỷ",37 tr/m²,56 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,95 tỷ",60 tr/m²,83 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","20,39 tỷ",408 tr/m²,50 m²,Hà Nội
+4 PN • Nhà phố liền kề,"6,9 tỷ",115 tr/m²,60 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 10.7 m,"2,079 tỷ",21 tr/m²,99 m²,Khánh Hòa
+"4 PN • Nhà ngõ, hẻm","20,39 tỷ",408 tr/m²,50 m²,Hà Nội
+"4 PN • Nhà mặt phố, mặt tiền","6,3 tỷ",180 tr/m²,35 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 1 m,"1,05 tỷ",< 1 tr/m²,1100 m²,Bình Dương
+"4 PN • Nhà ngõ, hẻm","7,09 tỷ",101 tr/m²,70 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 11.5 m,"1,2 tỷ","1,2 tr/m²",1000 m²,Long An
+"2 PN • Nhà mặt phố, mặt tiền","3,49 tỷ",35 tr/m²,100 m²,Bình Dương
+"2 PN • Nhà ngõ, hẻm",6 tỷ,133 tr/m²,45 m²,Tp Hồ Chí Minh
+"6 PN • Nhà ngõ, hẻm","11,8 tỷ",215 tr/m²,55 m²,Hà Nội
+Đất nông nghiệp • Ngang 27 m,"4,2 tỷ","3,4 tr/m²",1253 m²,Bà Rịa - Vũng Tàu
+"3 PN • Hướng Tây • Nhà mặt phố, mặt tiền",15 tỷ,108 tr/m²,140 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","2,6 tỷ",52 tr/m²,50 m²,Tp Hồ Chí Minh
+"4 PN • Hướng Tây Nam • Nhà ngõ, hẻm","5,8 tỷ",90 tr/m²,65 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","20,39 tỷ",408 tr/m²,50 m²,Hà Nội
+"3 PN • Nhà ngõ, hẻm","3,79 tỷ",63 tr/m²,60 m²,Đà Nẵng
+"4 PN • Nhà ngõ, hẻm","5,6 tỷ",88 tr/m²,64 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","6,4 tỷ",83 tr/m²,77 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","7,95 tỷ",114 tr/m²,70 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 7.3 m,"14,5 tỷ",60 tr/m²,242 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,4 tỷ,47 tr/m²,85 m²,Tp Hồ Chí Minh
+Đất nông nghiệp • Ngang 22 m,800 triệu,< 1 tr/m²,1600 m²,Đồng Nai
+"6 PN • Nhà mặt phố, mặt tiền","7,9 tỷ",79 tr/m²,100 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","6,6 tỷ",220 tr/m²,30 m²,Hà Nội
+"3 PN • Hướng Đông • Nhà mặt phố, mặt tiền","6,6 tỷ",94 tr/m²,70 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 10 m,"1,35 tỷ","2,8 tr/m²",475 m²,Bà Rịa - Vũng Tàu
+Đất thổ cư • Ngang 68 m,8 tỷ,< 1 tr/m²,9786 m²,Đồng Nai
+"2 PN • Nhà ngõ, hẻm",4 tỷ,108 tr/m²,37 m²,Tp Hồ Chí Minh
+"5 PN • Hướng Tây Nam • Nhà mặt phố, mặt tiền","7,5 tỷ",95 tr/m²,79 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","2,89 tỷ",29 tr/m²,100 m²,Bình Dương
+Đất thổ cư • Ngang 6 m,870 triệu,"3,2 tr/m²",269 m²,Bình Dương
+Đất thổ cư • Ngang 5 m,850 triệu,"4,3 tr/m²",200 m²,Long An
+"4 PN • Nhà ngõ, hẻm","6,8 tỷ",100 tr/m²,68 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Đông Nam • Nhà ngõ, hẻm","3,65 tỷ",54 tr/m²,68 m²,Tp Hồ Chí Minh
+"1 PN • Nhà ngõ, hẻm","1,05 tỷ",55 tr/m²,19 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 6 m,"3,9 tỷ",18 tr/m²,216 m²,Đắk Lắk
+"2 PN • Nhà mặt phố, mặt tiền","5,5 tỷ",100 tr/m²,55 m²,Đà Nẵng
+2 PN • Chung cư,"3,95 tỷ",56 tr/m²,70 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","7,8 tỷ",168 tr/m²,46 m²,Tp Hồ Chí Minh
+nhiều hơn 10 PN • Nhà biệt thự,25 tỷ,92 tr/m²,271 m²,Đà Nẵng
+"2 PN • Nhà ngõ, hẻm","4,1 tỷ",47 tr/m²,87 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 6.5 m,"1,95 tỷ",29 tr/m²,68 m²,Đà Nẵng
+Đất công nghiệp • Ngang 210 m,55 tỷ,550 tr/m²,100 m²,Bình Dương
+4 PN • Nhà biệt thự,"2,6 tỷ",29 tr/m²,90 m²,Long An
+Đất thổ cư • Ngang 9 m,"9,5 tỷ",57 tr/m²,167 m²,Đà Nẵng
+Đất thổ cư,"14,5 tỷ",69 tr/m²,210 m²,Đà Nẵng
+"2 PN • Nhà ngõ, hẻm","4,8 tỷ",48 tr/m²,99 m²,Đà Nẵng
+"4 PN • Nhà mặt phố, mặt tiền","6,8 tỷ",85 tr/m²,80 m²,Đà Nẵng
+Đất thổ cư • Ngang 5 m,"1,6 tỷ",15 tr/m²,105 m²,Bà Rịa - Vũng Tàu
+"4 PN • Nhà mặt phố, mặt tiền","7,25 tỷ",81 tr/m²,90 m²,Đà Nẵng
+"3 PN • Nhà ngõ, hẻm","8,45 tỷ",91 tr/m²,93 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Đông Nam • Nhà ngõ, hẻm","4,8 tỷ",54 tr/m²,88 m²,Tp Hồ Chí Minh
+Đất nông nghiệp • Ngang 8 m,"4,6 tỷ",18 tr/m²,254 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","1,85 tỷ",119 tr/m²,16 m²,Tp Hồ Chí Minh
+"7 PN • Nhà ngõ, hẻm","4,9 tỷ",39 tr/m²,126 m²,Tp Hồ Chí Minh
+1 PN • Hướng Tây Bắc • Chung cư,"1,11 tỷ",37 tr/m²,30 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","3,3 tỷ",103 tr/m²,32 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","9,3 tỷ",116 tr/m²,80 m²,Tp Hồ Chí Minh
+"3 PN • Hướng Đông Bắc • Nhà ngõ, hẻm","4,1 tỷ",59 tr/m²,69 m²,Tp Hồ Chí Minh
+Đất nông nghiệp • Ngang 70 m,"2,749 tỷ",< 1 tr/m²,2807 m²,Lâm Đồng
+Đất nông nghiệp • Ngang 10 m,1 tỷ,< 1 tr/m²,1024 m²,Bà Rịa - Vũng Tàu
+Đất thổ cư • Ngang 4.5 m,"1,85 tỷ",29 tr/m²,63 m²,Đồng Nai
+"3 PN • Nhà ngõ, hẻm","6,89 tỷ",191 tr/m²,36 m²,Tp Hồ Chí Minh
+Đất nền dự án • Ngang 5 m,"2,35 tỷ",19 tr/m²,123 m²,Quảng Nam
+3 PN • Hướng Tây Bắc • Nhà phố liền kề,18 tỷ,131 tr/m²,138 m²,Tp Hồ Chí Minh
+1 PN • Chung cư,"10,5 tỷ",159 tr/m²,66 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","2,75 tỷ",183 tr/m²,15 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 4.9 m,"5,6 tỷ",64 tr/m²,88 m²,Tp Hồ Chí Minh
+"3 PN • Hướng Nam • Nhà mặt phố, mặt tiền",11 tỷ,190 tr/m²,58 m²,Đắk Lắk
+"3 PN • Nhà ngõ, hẻm","6,6 tỷ",46 tr/m²,145 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 5 m,595 triệu,"4,3 tr/m²",138 m²,Bà Rịa - Vũng Tàu
+Đất thổ cư • Ngang 7 m,"11,5 tỷ",125 tr/m²,92 m²,Hà Nội
+"2 PN • Hướng Nam • Nhà mặt phố, mặt tiền","4,2 tỷ",81 tr/m²,52 m²,Đà Nẵng
+1 PN • Chung cư,"3,1 tỷ",66 tr/m²,47 m²,Hà Nội
+"2 PN • Hướng Đông Bắc • Nhà ngõ, hẻm","8,5 tỷ",84 tr/m²,101 m²,Tp Hồ Chí Minh
+3 PN • Chung cư,"6,15 tỷ",65 tr/m²,95 m²,Hà Nội
+Đất nền dự án • Ngang 5 m,"2,55 tỷ",20 tr/m²,125 m²,Đà Nẵng
+Đất nông nghiệp • Ngang 34 m,620 triệu,< 1 tr/m²,3000 m²,Long An
+"5 PN • Nhà ngõ, hẻm","7,79 tỷ",156 tr/m²,50 m²,Tp Hồ Chí Minh
+1 PN • Chung cư,"2,85 tỷ",66 tr/m²,43 m²,Hà Nội
+"nhiều hơn 10 PN • Nhà mặt phố, mặt tiền","6,7 tỷ",28 tr/m²,236 m²,Bình Dương
+"4 PN • Hướng Nam • Nhà mặt phố, mặt tiền","6,2 tỷ",95 tr/m²,65 m²,Tp Hồ Chí Minh
+"10 PN • Nhà mặt phố, mặt tiền","1,95 tỷ","6,7 tr/m²",290 m²,Bình Dương
+"2 PN • Nhà ngõ, hẻm",3 tỷ,30 tr/m²,100 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","8,9 tỷ",89 tr/m²,100 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","4,5 tỷ",53 tr/m²,85 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","2,5 tỷ",39 tr/m²,64 m²,Đà Nẵng
+"2 PN • Nhà ngõ, hẻm","2,2 tỷ",46 tr/m²,48 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 7.5 m,"3,3 tỷ",12 tr/m²,267 m²,Bình Dương
+"4 PN • Nhà ngõ, hẻm","7,75 tỷ",172 tr/m²,45 m²,Hà Nội
+Đất thổ cư,680 triệu,< 1 tr/m²,1485 m²,Bình Dương
+"2 PN • Hướng Bắc • Nhà ngõ, hẻm","2,49 tỷ",36 tr/m²,70 m²,Đà Nẵng
+"2 PN • Nhà ngõ, hẻm","3,85 tỷ",80 tr/m²,48 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 4.5 m,"2,69 tỷ",27 tr/m²,100 m²,Đà Nẵng
+Đất thổ cư • Ngang 4 m,"1,89 tỷ",21 tr/m²,92 m²,Đà Nẵng
+"5 PN • Nhà ngõ, hẻm","4,65 tỷ",155 tr/m²,30 m²,Hà Nội
+"4 PN • Nhà mặt phố, mặt tiền","12,8 tỷ",206 tr/m²,62 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Tây Nam • Nhà ngõ, hẻm","3,9 tỷ",56 tr/m²,70 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm",4 tỷ,71 tr/m²,56 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 4.5 m,"5,3 tỷ",60 tr/m²,88 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","7,65 tỷ",191 tr/m²,40 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","1,3 tỷ",13 tr/m²,103 m²,Đắk Lắk
+Đất thổ cư • Ngang 5 m,750 triệu,"5,2 tr/m²",145 m²,Tiền Giang
+"2 PN • Nhà ngõ, hẻm","3,2 tỷ",89 tr/m²,36 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 10 m,"2,7 tỷ","6,9 tr/m²",390 m²,Đà Nẵng
+"3 PN • Hướng Đông Bắc • Nhà ngõ, hẻm","3,95 tỷ",132 tr/m²,30 m²,Hà Nội
+2 PN • Hướng Đông Bắc • Nhà phố liền kề,"6,6 tỷ",213 tr/m²,31 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","2,39 tỷ",33 tr/m²,73 m²,Đà Nẵng
+"2 PN • Nhà ngõ, hẻm","10,9 tỷ",156 tr/m²,70 m²,Hà Nội
+Đất thổ cư • Ngang 4 m,"3,85 tỷ",42 tr/m²,92 m²,Bình Dương
+2 PN • Chung cư,2 tỷ,33 tr/m²,60 m²,Tp Hồ Chí Minh
+"2 PN • Nhà mặt phố, mặt tiền","5,79 tỷ",145 tr/m²,40 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","6,3 tỷ",97 tr/m²,65 m²,Tp Hồ Chí Minh
+4 PN • Hướng Bắc • Nhà phố liền kề,"5,6 tỷ",57 tr/m²,98 m²,Tp Hồ Chí Minh
+3 PN • Chung cư,"8,2 tỷ",80 tr/m²,103 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Đông Nam • Nhà ngõ, hẻm","2,25 tỷ",56 tr/m²,40 m²,Đà Nẵng
+Đất thổ cư • Ngang 5 m,"1,68 tỷ",17 tr/m²,100 m²,Long An
+"2 PN • Nhà ngõ, hẻm","4,15 tỷ",83 tr/m²,50 m²,Tp Hồ Chí Minh
+"4 PN • Hướng Đông Nam • Nhà mặt phố, mặt tiền",18 tỷ,250 tr/m²,72 m²,Tp Hồ Chí Minh
+"4 PN • Hướng Đông Nam • Nhà mặt phố, mặt tiền",26 tỷ,549 tr/m²,47 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 7 m,"7,3 tỷ",52 tr/m²,140 m²,Đà Nẵng
+"2 PN • Nhà ngõ, hẻm","1,28 tỷ",85 tr/m²,15 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","3,81 tỷ",119 tr/m²,32 m²,Tp Hồ Chí Minh
+Đất nông nghiệp,"4,4 tỷ","2,2 tr/m²",2000 m²,Bình Thuận
+"3 PN • Hướng Đông Bắc • Nhà ngõ, hẻm","6,3 tỷ",143 tr/m²,44 m²,Tp Hồ Chí Minh
+"4 PN • Hướng Đông Bắc • Nhà mặt phố, mặt tiền","5,15 tỷ",64 tr/m²,81 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","20,5 tỷ",373 tr/m²,55 m²,Hà Nội
+"4 PN • Hướng Tây Bắc • Nhà mặt phố, mặt tiền","4,95 tỷ",71 tr/m²,70 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","1,45 tỷ",26 tr/m²,56 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","7,8 tỷ",80 tr/m²,98 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Đông • Nhà ngõ, hẻm","3,6 tỷ",129 tr/m²,28 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","8,3 tỷ",119 tr/m²,70 m²,Tp Hồ Chí Minh
+"2 PN • Nhà mặt phố, mặt tiền","5,5 tỷ",110 tr/m²,50 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 5 m,750 triệu,"8,3 tr/m²",90 m²,Bà Rịa - Vũng Tàu
+"5 PN • Hướng Tây • Nhà ngõ, hẻm","8,999 tỷ",113 tr/m²,80 m²,Tp Hồ Chí Minh
+"5 PN • Nhà ngõ, hẻm","7,05 tỷ",120 tr/m²,59 m²,Tp Hồ Chí Minh
+"4 PN • Hướng Nam • Nhà mặt phố, mặt tiền","3,8 tỷ",46 tr/m²,83 m²,Long An
+"4 PN • Tập thể, cư xá",540 triệu,"4,9 tr/m²",110 m²,Hà Nội
+"5 PN • Nhà mặt phố, mặt tiền","7,5 tỷ",188 tr/m²,40 m²,Tp Hồ Chí Minh
+"2 PN • Nhà mặt phố, mặt tiền","8,8 tỷ",45 tr/m²,195 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 5 m,"1,25 tỷ","9,6 tr/m²",130 m²,Đồng Nai
+2 PN • Chung cư,"2,55 tỷ",48 tr/m²,53 m²,Tp Hồ Chí Minh
+"1 PN • Hướng Tây Nam • Nhà ngõ, hẻm","13,8 tỷ",104 tr/m²,133 m²,Bình Dương
+"2 PN • Hướng Bắc • Nhà ngõ, hẻm","1,19 tỷ",12 tr/m²,100 m²,Bà Rịa - Vũng Tàu
+Đất nền dự án • Ngang 10 m,8 tỷ,33 tr/m²,239 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","3,45 tỷ",69 tr/m²,50 m²,Tp Hồ Chí Minh
+"4 PN • Nhà mặt phố, mặt tiền",850 triệu,"7,1 tr/m²",120 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 7 m,"1,65 tỷ",14 tr/m²,120 m²,Đà Nẵng
+"4 PN • Nhà mặt phố, mặt tiền","12,8 tỷ",178 tr/m²,72 m²,Hà Nội
+Đất thổ cư • Ngang 6.5 m,"1,66 tỷ",20 tr/m²,82 m²,Đà Nẵng
+"4 PN • Nhà ngõ, hẻm","4,85 tỷ",76 tr/m²,64 m²,Tp Hồ Chí Minh
+"1 PN • Nhà ngõ, hẻm",890 triệu,37 tr/m²,24 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","8,5 tỷ",94 tr/m²,90 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","3,85 tỷ",99 tr/m²,39 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,98 tỷ",100 tr/m²,50 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","3,86 tỷ",97 tr/m²,40 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","20,5 tỷ",410 tr/m²,50 m²,Hà Nội
+1 PN • Hướng Tây Bắc • Chung cư,"1,9 tỷ",40 tr/m²,47 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 6 m,"4,3 tỷ",41 tr/m²,104 m²,Bình Dương
+"4 PN • Nhà ngõ, hẻm","6,25 tỷ",179 tr/m²,35 m²,Hà Nội
+"3 PN • Hướng Đông • Nhà ngõ, hẻm","7,5 tỷ",221 tr/m²,34 m²,Hà Nội
+"3 PN • Nhà ngõ, hẻm","5,5 tỷ",275 tr/m²,20 m²,Hà Nội
+"4 PN • Nhà ngõ, hẻm","5,6 tỷ",100 tr/m²,56 m²,Tp Hồ Chí Minh
+"3 PN • Nhà mặt phố, mặt tiền","4,35 tỷ",73 tr/m²,60 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 6.5 m,890 triệu,"6,8 tr/m²",130 m²,Lâm Đồng
+"2 PN • Nhà ngõ, hẻm","3,75 tỷ",72 tr/m²,52 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","4,5 tỷ",75 tr/m²,60 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","6,5 tỷ",98 tr/m²,66 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,2 tỷ",131 tr/m²,32 m²,Hà Nội
+"2 PN • Hướng Tây Bắc • Nhà ngõ, hẻm","1,8 tỷ","3,2 tr/m²",568 m²,Bà Rịa - Vũng Tàu
+"4 PN • Hướng Nam • Nhà ngõ, hẻm","5,7 tỷ",95 tr/m²,60 m²,Tp Hồ Chí Minh
+"6 PN • Nhà mặt phố, mặt tiền","10,5 tỷ",105 tr/m²,100 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","2,48 tỷ",78 tr/m²,32 m²,Hà Nội
+"3 PN • Hướng Nam • Nhà ngõ, hẻm","10,7 tỷ",153 tr/m²,70 m²,Hà Nội
+"2 PN • Hướng Đông Bắc • Nhà ngõ, hẻm","3,2 tỷ",53 tr/m²,60 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","1,25 tỷ",24 tr/m²,52 m²,Tp Hồ Chí Minh
+3 PN • Chung cư,"7,5 tỷ",74 tr/m²,101 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","5,5 tỷ",69 tr/m²,80 m²,Tp Hồ Chí Minh
+3 PN • Chung cư,"2,5 tỷ",24 tr/m²,103 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","5,2 tỷ",130 tr/m²,40 m²,Hà Nội
+Đất thổ cư • Ngang 17 m,"4,2 tỷ","8,2 tr/m²",510 m²,Bình Dương
+"2 PN • Nhà ngõ, hẻm","4,4 tỷ",100 tr/m²,44 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","3,48 tỷ",116 tr/m²,30 m²,Hà Nội
+"4 PN • Nhà ngõ, hẻm",10 tỷ,179 tr/m²,56 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm",4 tỷ,114 tr/m²,35 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,4 tỷ",138 tr/m²,32 m²,Hà Nội
+"4 PN • Nhà ngõ, hẻm","6,95 tỷ",89 tr/m²,78 m²,Tp Hồ Chí Minh
+"5 PN • Nhà ngõ, hẻm","4,85 tỷ",135 tr/m²,36 m²,Hà Nội
+"3 PN • Nhà mặt phố, mặt tiền","5,2 tỷ",108 tr/m²,48 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","1,78 tỷ",32 tr/m²,56 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","3,65 tỷ",114 tr/m²,32 m²,Hà Nội
+"2 PN • Nhà ngõ, hẻm","2,05 tỷ",43 tr/m²,48 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","3,55 tỷ",91 tr/m²,39 m²,Hà Nội
+"7 PN • Nhà ngõ, hẻm","7,5 tỷ",179 tr/m²,42 m²,Hà Nội
+"2 PN • Nhà ngõ, hẻm","2,1 tỷ",44 tr/m²,48 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 60 m,"11,2 tỷ","1,8 tr/m²",6321 m²,Lâm Đồng
+"3 PN • Nhà ngõ, hẻm","4,85 tỷ",147 tr/m²,33 m²,Hà Nội
+"2 PN • Nhà ngõ, hẻm","5,2 tỷ",130 tr/m²,40 m²,Tp Hồ Chí Minh
+"5 PN • Nhà ngõ, hẻm","7,5 tỷ",179 tr/m²,42 m²,Hà Nội
+"2 PN • Nhà ngõ, hẻm","6,45 tỷ",102 tr/m²,63 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","6,8 tỷ",142 tr/m²,48 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","5,6 tỷ",165 tr/m²,34 m²,Hà Nội
+"2 PN • Nhà ngõ, hẻm","3,75 tỷ",94 tr/m²,40 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","5,25 tỷ",131 tr/m²,40 m²,Hà Nội
+"3 PN • Nhà ngõ, hẻm","4,85 tỷ",128 tr/m²,38 m²,Hà Nội
+Đất thổ cư • Ngang 5 m,"1,85 tỷ","5,3 tr/m²",347 m²,Bình Dương
+"2 PN • Nhà ngõ, hẻm","4,6 tỷ",58 tr/m²,80 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,85 tỷ",152 tr/m²,32 m²,Hà Nội
+"4 PN • Nhà mặt phố, mặt tiền","14,2 tỷ",258 tr/m²,55 m²,Hà Nội
+"3 PN • Nhà ngõ, hẻm","4,35 tỷ",91 tr/m²,48 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","3,15 tỷ",98 tr/m²,32 m²,Hà Nội
+2 PN • Chung cư,"1,85 tỷ",31 tr/m²,59 m²,Tp Hồ Chí Minh
+"1 PN • Nhà mặt phố, mặt tiền","19,9 tỷ",43 tr/m²,468 m²,Bình Dương
+"4 PN • Nhà ngõ, hẻm","9,5 tỷ",238 tr/m²,40 m²,Hà Nội
+"1 PN • Nhà ngõ, hẻm","5,5 tỷ",115 tr/m²,48 m²,Tp Hồ Chí Minh
+"4 PN • Nhà mặt phố, mặt tiền","8,9 tỷ",99 tr/m²,90 m²,Tp Hồ Chí Minh
+Đất nền dự án • Ngang 4.5 m,"2,85 tỷ",26 tr/m²,108 m²,Long An
+Đất thổ cư • Ngang 5 m,700 triệu,"7,8 tr/m²",90 m²,Tiền Giang
+"1 PN • Nhà ngõ, hẻm","2,3 tỷ",153 tr/m²,15 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Đông Bắc • Nhà ngõ, hẻm","3,6 tỷ",56 tr/m²,64 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","6,8 tỷ",155 tr/m²,44 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","1,39 tỷ",53 tr/m²,26 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 4.91 m,"5,8 tỷ",79 tr/m²,73 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","6,59 tỷ",127 tr/m²,52 m²,Tp Hồ Chí Minh
+"5 PN • Hướng Đông Bắc • Nhà mặt phố, mặt tiền","12,9 tỷ",129 tr/m²,100 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm",7 tỷ,121 tr/m²,58 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,"5,6 tỷ",70 tr/m²,80 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,"2,1 tỷ",46 tr/m²,46 m²,Hà Nội
+Đất thổ cư • Ngang 6 m,"1,7 tỷ",44 tr/m²,39 m²,Hà Nội
+1 PN • Chung cư,"1,9 tỷ",41 tr/m²,46 m²,Hà Nội
+"3 PN • Nhà ngõ, hẻm","3,65 tỷ",122 tr/m²,30 m²,Hà Nội
+Đất thổ cư • Ngang 74 m,3 tỷ,41 tr/m²,74 m²,Hà Nội
+"2 PN • Nhà ngõ, hẻm","3,86 tỷ",161 tr/m²,24 m²,Tp Hồ Chí Minh
+3 PN • Chung cư,"2,6 tỷ",37 tr/m²,70 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 70 m,320 tỷ,34 tr/m²,9302 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","5,15 tỷ",114 tr/m²,45 m²,Tp Hồ Chí Minh
+3 PN • Hướng Tây Nam • Chung cư,"6,83 tỷ",73 tr/m²,94 m²,Hà Nội
+"4 PN • Nhà ngõ, hẻm","5,35 tỷ",89 tr/m²,60 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 16.25 m,"1,62 tỷ","4,3 tr/m²",374 m²,Quảng Nam
+"3 PN • Nhà ngõ, hẻm","8,8 tỷ",126 tr/m²,70 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,"1,05 tỷ",19 tr/m²,55 m²,Tp Hồ Chí Minh
+"3 PN • Hướng Đông Bắc • Nhà mặt phố, mặt tiền",6 tỷ,60 tr/m²,100 m²,Long An
+Đất thổ cư • Ngang 4.5 m,"2,4 tỷ",27 tr/m²,90 m²,Long An
+"3 PN • Nhà ngõ, hẻm","4,78 tỷ",94 tr/m²,51 m²,Tp Hồ Chí Minh
+"3 PN • Hướng Đông Nam • Nhà mặt phố, mặt tiền","2,3 tỷ",20 tr/m²,117 m²,Bình Dương
+"3 PN • Nhà ngõ, hẻm","7,4 tỷ",112 tr/m²,66 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","3,75 tỷ",78 tr/m²,48 m²,Tp Hồ Chí Minh
+"5 PN • Nhà ngõ, hẻm",10 tỷ,143 tr/m²,70 m²,Tp Hồ Chí Minh
+"4 PN • Nhà mặt phố, mặt tiền","9,3 tỷ",21 tr/m²,450 m²,Tây Ninh
+"3 PN • Nhà ngõ, hẻm","3,56 tỷ",132 tr/m²,27 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 5 m,"3,39 tỷ",31 tr/m²,110 m²,Đà Nẵng
+"3 PN • Hướng Đông Bắc • Nhà ngõ, hẻm","6,3 tỷ",143 tr/m²,44 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,6 tỷ",96 tr/m²,48 m²,Tp Hồ Chí Minh
+Đất thổ cư,27 tỷ,37 tr/m²,739 m²,Bình Dương
+"4 PN • Nhà ngõ, hẻm",6 tỷ,194 tr/m²,31 m²,Hà Nội
+"8 PN • Nhà ngõ, hẻm","18,2 tỷ",357 tr/m²,51 m²,Hà Nội
+"6 PN • Nhà ngõ, hẻm","4,9 tỷ",94 tr/m²,52 m²,Tp Hồ Chí Minh
+"4 PN • Nhà mặt phố, mặt tiền","8,85 tỷ",206 tr/m²,43 m²,Hà Nội
+"3 PN • Hướng Tây • Nhà ngõ, hẻm",4 tỷ,75 tr/m²,53 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","5,1 tỷ",142 tr/m²,36 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 5.2 m,"1,85 tỷ",18 tr/m²,102 m²,Bình Dương
+"3 PN • Nhà ngõ, hẻm",8 tỷ,107 tr/m²,75 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","5,7 tỷ",61 tr/m²,93 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","5,8 tỷ",97 tr/m²,60 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","1,78 tỷ",59 tr/m²,30 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,"1,98 tỷ",37 tr/m²,54 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm",1 tỷ,100 tr/m²,10 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","3,95 tỷ",94 tr/m²,42 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","3,95 tỷ",94 tr/m²,42 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","1,98 tỷ",99 tr/m²,20 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","3,5 tỷ",85 tr/m²,41 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,"3,65 tỷ",61 tr/m²,60 m²,Hà Nội
+"4 PN • Nhà ngõ, hẻm","7,5 tỷ",127 tr/m²,59 m²,Tp Hồ Chí Minh
+2 PN • Hướng Đông Nam • Chung cư,"1,58 tỷ",35 tr/m²,45 m²,Hà Nội
+"2 PN • Hướng Tây Bắc • Nhà ngõ, hẻm","2,59 tỷ",58 tr/m²,45 m²,Cần Thơ
+"3 PN • Hướng Tây Nam • Nhà ngõ, hẻm",6 tỷ,182 tr/m²,33 m²,Hà Nội
+4 PN • Hướng Đông Nam • Nhà phố liền kề,12 tỷ,120 tr/m²,100 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","3,9 tỷ",163 tr/m²,24 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 8 m,"13,5 tỷ",33 tr/m²,404 m²,Bình Dương
+Đất thổ cư • Ngang 5.8 m,"4,65 tỷ",67 tr/m²,70 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,"5,85 tỷ",72 tr/m²,81 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","1,45 tỷ",27 tr/m²,53 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Nam • Nhà ngõ, hẻm","4,55 tỷ",43 tr/m²,105 m²,Bình Dương
+"2 PN • Nhà ngõ, hẻm","4,8 tỷ",60 tr/m²,80 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,4 tỷ",63 tr/m²,70 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 5.3 m,"4,2 tỷ",93 tr/m²,45 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","6,79 tỷ",113 tr/m²,60 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 20 m,6 tỷ,"5,5 tr/m²",1100 m²,Tiền Giang
+"3 PN • Nhà mặt phố, mặt tiền","11,79 tỷ",79 tr/m²,150 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 6.5 m,"1,85 tỷ",10 tr/m²,183 m²,Long An
+"2 PN • Nhà ngõ, hẻm","1,7 tỷ",27 tr/m²,64 m²,Tp Hồ Chí Minh
+2 PN • Hướng Đông Nam • Chung cư,"2,499 tỷ",50 tr/m²,50 m²,Đà Nẵng
+Đất thổ cư • Ngang 5 m,"2,1 tỷ",17 tr/m²,122 m²,Bình Dương
+"3 PN • Nhà ngõ, hẻm","5,8 tỷ",72 tr/m²,81 m²,Tp Hồ Chí Minh
+"10 PN • Nhà ngõ, hẻm","9,5 tỷ",44 tr/m²,218 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 16 m,65 tỷ,163 tr/m²,400 m²,Đà Nẵng
+"2 PN • Nhà ngõ, hẻm","4,44 tỷ",74 tr/m²,60 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 5.2 m,"18,5 tỷ",114 tr/m²,162 m²,Tp Hồ Chí Minh
+"2 PN • Nhà mặt phố, mặt tiền","5,19 tỷ",74 tr/m²,70 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 13 m,"3,1 tỷ",44 tr/m²,70 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,2 tỷ",82 tr/m²,51 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","2,3 tỷ",36 tr/m²,64 m²,Tp Hồ Chí Minh
+4 PN • Nhà biệt thự,"12,79 tỷ",78 tr/m²,164 m²,Tp Hồ Chí Minh
+"2 PN • Nhà mặt phố, mặt tiền","2,25 tỷ",33 tr/m²,68 m²,Đồng Nai
+"2 PN • Nhà mặt phố, mặt tiền","5,6 tỷ",71 tr/m²,79 m²,Tp Hồ Chí Minh
+"4 PN • Nhà mặt phố, mặt tiền","7,2 tỷ",120 tr/m²,60 m²,Tp Hồ Chí Minh
+"3 PN • Hướng Tây Nam • Nhà mặt phố, mặt tiền","4,6 tỷ",56 tr/m²,82 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Đông • Nhà ngõ, hẻm","1,39 tỷ",35 tr/m²,40 m²,Tp Hồ Chí Minh
+nhiều hơn 10 PN • Nhà biệt thự,14 tỷ,175 tr/m²,80 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Tây Bắc • Nhà ngõ, hẻm","1,299 tỷ",25 tr/m²,52 m²,Bình Dương
+"3 PN • Nhà ngõ, hẻm","7,78 tỷ",195 tr/m²,40 m²,Tp Hồ Chí Minh
+"nhiều hơn 10 PN • Nhà mặt phố, mặt tiền","16,5 tỷ",150 tr/m²,110 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","8,9 tỷ",107 tr/m²,83 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","12,5 tỷ",250 tr/m²,50 m²,Hà Nội
+Mặt bằng kinh doanh,"13,5 tỷ",5000 m²,,Đồng Nai
+"nhiều hơn 10 PN • Nhà ngõ, hẻm",22 tỷ,169 tr/m²,130 m²,Tp Hồ Chí Minh
+Đất nền dự án • Ngang 13 m,"15,8 tỷ",56 tr/m²,280 m²,Đà Nẵng
+"2 PN • Hướng Tây Bắc • Nhà ngõ, hẻm","4,35 tỷ",104 tr/m²,42 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,98 tỷ",131 tr/m²,38 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,8 tỷ",130 tr/m²,37 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 7.2 m,"4,5 tỷ",31 tr/m²,144 m²,Vĩnh Phúc
+Đất thổ cư • Ngang 5.2 m,"5,2 tỷ",84 tr/m²,62 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 7 m,420 triệu,"3,3 tr/m²",128 m²,Tiền Giang
+"2 PN • Nhà ngõ, hẻm","2,89 tỷ",69 tr/m²,42 m²,Hà Nội
+2 PN • Chung cư,3 tỷ,60 tr/m²,50 m²,Đà Nẵng
+"4 PN • Hướng Tây Bắc • Nhà ngõ, hẻm","4,9 tỷ",102 tr/m²,48 m²,Tp Hồ Chí Minh
+"1 PN • Hướng Tây Bắc • Nhà mặt phố, mặt tiền","4,2 tỷ",42 tr/m²,100 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","3,6 tỷ",150 tr/m²,24 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm",4 tỷ,103 tr/m²,39 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,200 triệu,"6,7 tr/m²",30 m²,Bình Dương
+"3 PN • Hướng Tây Nam • Nhà ngõ, hẻm","4,6 tỷ",77 tr/m²,60 m²,Đà Nẵng
+Đất thổ cư • Ngang 20 m,300 tỷ,300 tr/m²,1000 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","6,57 tỷ",274 tr/m²,24 m²,Hà Nội
+"3 PN • Nhà mặt phố, mặt tiền",6 tỷ,77 tr/m²,78 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 5 m,599 triệu,6 tr/m²,100 m²,Đồng Nai
+"3 PN • Nhà ngõ, hẻm","13,5 tỷ",281 tr/m²,48 m²,Hà Nội
+Đất thổ cư • Ngang 5 m,"2,58 tỷ",26 tr/m²,100 m²,Đà Nẵng
+4 PN • Hướng Tây • Nhà phố liền kề,950 triệu,20 tr/m²,48 m²,Long An
+"3 PN • Hướng Nam • Nhà ngõ, hẻm",8 tỷ,160 tr/m²,50 m²,Hà Nội
+"4 PN • Hướng Tây Bắc • Nhà mặt phố, mặt tiền","7,9 tỷ",86 tr/m²,92 m²,Đà Nẵng
+"4 PN • Hướng Tây Nam • Nhà ngõ, hẻm",6 tỷ,167 tr/m²,36 m²,Hà Nội
+"3 PN • Hướng Đông Nam • Nhà ngõ, hẻm",5 tỷ,156 tr/m²,32 m²,Hà Nội
+"4 PN • Nhà mặt phố, mặt tiền","8,9 tỷ",282 tr/m²,32 m²,Tp Hồ Chí Minh
+"4 PN • Hướng Bắc • Nhà ngõ, hẻm","8,1 tỷ",162 tr/m²,50 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","6,45 tỷ",113 tr/m²,57 m²,Tp Hồ Chí Minh
+"3 PN • Hướng Đông Nam • Nhà ngõ, hẻm",9 tỷ,225 tr/m²,40 m²,Hà Nội
+2 PN • Hướng Tây Bắc • Chung cư,"2,1 tỷ",34 tr/m²,62 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","6,4 tỷ",183 tr/m²,35 m²,Hà Nội
+2 PN • Hướng Tây Bắc • Chung cư,"2,1 tỷ",34 tr/m²,62 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","6,4 tỷ",183 tr/m²,35 m²,Hà Nội
+4 PN • Hướng Đông • Nhà phố liền kề,12 tỷ,120 tr/m²,100 m²,Tp Hồ Chí Minh
+"3 PN • Hướng Tây Nam • Nhà ngõ, hẻm",6 tỷ,171 tr/m²,35 m²,Hà Nội
+"3 PN • Nhà mặt phố, mặt tiền","9,7 tỷ",237 tr/m²,41 m²,Hà Nội
+"4 PN • Nhà mặt phố, mặt tiền","6,9 tỷ",77 tr/m²,90 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","5,799 tỷ",107 tr/m²,54 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","2,9 tỷ",138 tr/m²,21 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,735 triệu,13 tr/m²,56 m²,Bình Dương
+2 PN • Chung cư,"2,4 tỷ",42 tr/m²,57 m²,Tp Hồ Chí Minh
+"10 PN • Nhà ngõ, hẻm","12,9 tỷ",198 tr/m²,65 m²,Hà Nội
+2 PN • Hướng Đông • Chung cư,2 tỷ,33 tr/m²,61 m²,Tp Hồ Chí Minh
+Đất công nghiệp • Ngang 41 m,"3,8 tỷ","1,3 tr/m²",2929 m²,Cần Thơ
+"3 PN • Hướng Đông Nam • Nhà ngõ, hẻm","5,999 tỷ",171 tr/m²,35 m²,Hà Nội
+"2 PN • Nhà mặt phố, mặt tiền","4,3 tỷ",54 tr/m²,80 m²,Hà Nội
+"4 PN • Nhà ngõ, hẻm","2,3 tỷ",88 tr/m²,26 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","5,5 tỷ",77 tr/m²,71 m²,Tp Hồ Chí Minh
+"3 PN • Hướng Tây Bắc • Nhà ngõ, hẻm","4,15 tỷ",115 tr/m²,36 m²,Tp Hồ Chí Minh
+"6 PN • Nhà mặt phố, mặt tiền","17,5 tỷ",219 tr/m²,80 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","1,95 tỷ",53 tr/m²,37 m²,Tp Hồ Chí Minh
+"4 PN • Hướng Đông Bắc • Nhà mặt phố, mặt tiền",11 tỷ,229 tr/m²,48 m²,Hà Nội
+"2 PN • Nhà ngõ, hẻm","10,9 tỷ",145 tr/m²,75 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm",9 tỷ,69 tr/m²,130 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 4.5 m,"2,98 tỷ",48 tr/m²,62 m²,Đà Nẵng
+Đất thổ cư • Ngang 5 m,"3,6 tỷ",48 tr/m²,75 m²,Bình Dương
+Đất thổ cư,19 tỷ,117 tr/m²,162 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","5,7 tỷ",46 tr/m²,123 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","4,89 tỷ",63 tr/m²,78 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 7 m,"5,65 tỷ",57 tr/m²,100 m²,Hà Nội
+Đất công nghiệp • Ngang 5 m,"1,8 tỷ",18 tr/m²,100 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","2,5 tỷ",139 tr/m²,18 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,7 tỷ",52 tr/m²,90 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","6,39 tỷ",86 tr/m²,74 m²,Tp Hồ Chí Minh
+"4 PN • Hướng Đông Nam • Nhà mặt phố, mặt tiền",8 tỷ,136 tr/m²,59 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","6,49 tỷ",87 tr/m²,75 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","5,5 tỷ",55 tr/m²,100 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,2 tỷ",66 tr/m²,64 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 5 m,"3,548 tỷ",36 tr/m²,99 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,"2,5 tỷ",38 tr/m²,65 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 4.5 m,"6,89 tỷ",101 tr/m²,68 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 9.5 m,"8,1 tỷ",32 tr/m²,250 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","9,5 tỷ",232 tr/m²,41 m²,Hà Nội
+Đất thổ cư • Ngang 6 m,"2,9 tỷ",25 tr/m²,116 m²,Hà Nội
+3 PN • Chung cư,"3,65 tỷ",43 tr/m²,85 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm",7 tỷ,149 tr/m²,47 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","6,89 tỷ",71 tr/m²,97 m²,Tp Hồ Chí Minh
+"5 PN • Nhà ngõ, hẻm","8,9 tỷ",99 tr/m²,90 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","3,5 tỷ",49 tr/m²,72 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","6,49 tỷ",112 tr/m²,58 m²,Tp Hồ Chí Minh
+"5 PN • Nhà ngõ, hẻm","4,15 tỷ",97 tr/m²,43 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Bắc • Nhà ngõ, hẻm","4,15 tỷ",68 tr/m²,61 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Tây Nam • Nhà ngõ, hẻm","1,79 tỷ",46 tr/m²,39 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","6,25 tỷ",87 tr/m²,72 m²,Tp Hồ Chí Minh
+"5 PN • Nhà ngõ, hẻm","7,5 tỷ",134 tr/m²,56 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","5,9 tỷ",118 tr/m²,50 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","6,95 tỷ",86 tr/m²,81 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","6,1 tỷ",102 tr/m²,60 m²,Tp Hồ Chí Minh
+6 PN • Nhà biệt thự,"5,36 tỷ",71 tr/m²,75 m²,Hà Nội
+"2 PN • Nhà ngõ, hẻm","7,25 tỷ",90 tr/m²,81 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","5,7 tỷ",259 tr/m²,22 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","6,5 tỷ",118 tr/m²,55 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","4,8 tỷ",86 tr/m²,56 m²,Tp Hồ Chí Minh
+"3 PN • Nhà mặt phố, mặt tiền","6,99 tỷ",125 tr/m²,56 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 5 m,"4,75 tỷ",58 tr/m²,82 m²,Tp Hồ Chí Minh
+"4 PN • Hướng Tây Nam • Nhà mặt phố, mặt tiền","13,6 tỷ",234 tr/m²,58 m²,Tp Hồ Chí Minh
+"6 PN • Hướng Tây Bắc • Nhà ngõ, hẻm","6,5 tỷ",125 tr/m²,52 m²,Tp Hồ Chí Minh
+"1 PN • Hướng Tây Bắc • Nhà ngõ, hẻm",5 tỷ,49 tr/m²,103 m²,Tp Hồ Chí Minh
+"2 PN • Nhà mặt phố, mặt tiền",315 triệu,32 tr/m²,10 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","5,9 tỷ",92 tr/m²,64 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,45 tỷ",171 tr/m²,26 m²,Tp Hồ Chí Minh
+1 PN • Hướng Tây Nam • Chung cư,"2,71 tỷ",80 tr/m²,34 m²,Hà Nội
+"1 PN • Nhà ngõ, hẻm","1,3 tỷ",58 tr/m²,23 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 10 m,750 triệu,"1,7 tr/m²",450 m²,Tây Ninh
+3 PN • Nhà phố liền kề,"3,4 tỷ",41 tr/m²,83 m²,Bình Dương
+Đất thổ cư • Ngang 4 m,285 triệu,14 tr/m²,20 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm",5 tỷ,66 tr/m²,76 m²,Tp Hồ Chí Minh
+3 PN • Nhà phố liền kề,"7,6 tỷ",152 tr/m²,50 m²,Tp Hồ Chí Minh
+"3 PN • Nhà mặt phố, mặt tiền","4,15 tỷ",61 tr/m²,68 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","6,85 tỷ",137 tr/m²,50 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,2 tỷ",66 tr/m²,64 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Tây • Nhà mặt phố, mặt tiền","1,1 tỷ","2,6 tr/m²",420 m²,Tiền Giang
+"5 PN • Nhà mặt phố, mặt tiền","2,75 tỷ",17 tr/m²,165 m²,Đà Nẵng
+"7 PN • Nhà mặt phố, mặt tiền","7,9 tỷ",122 tr/m²,65 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","4,2 tỷ",117 tr/m²,36 m²,Tp Hồ Chí Minh
+"4 PN • Hướng Tây Nam • Nhà mặt phố, mặt tiền","6,48 tỷ",91 tr/m²,71 m²,Tp Hồ Chí Minh
+"4 PN • Hướng Tây Bắc • Nhà mặt phố, mặt tiền","6,6 tỷ",110 tr/m²,60 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","3,5 tỷ",70 tr/m²,50 m²,Tp Hồ Chí Minh
+"4 PN • Hướng Nam • Nhà ngõ, hẻm","1,98 tỷ",51 tr/m²,39 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 14 m,699 triệu,< 1 tr/m²,1037 m²,Tiền Giang
+"2 PN • Nhà mặt phố, mặt tiền",21 tỷ,233 tr/m²,90 m²,Tp Hồ Chí Minh
+Đất thổ cư,"5,4 tỷ",61 tr/m²,88 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Tây • Nhà ngõ, hẻm","3,9 tỷ",30 tr/m²,128 m²,Tp Hồ Chí Minh
+Đất nông nghiệp • Ngang 12 m,265 triệu,< 1 tr/m²,580 m²,Tiền Giang
+"nhiều hơn 10 PN • Nhà mặt phố, mặt tiền",37 tỷ,224 tr/m²,165 m²,Tp Hồ Chí Minh
+"5 PN • Nhà ngõ, hẻm","8,5 tỷ",106 tr/m²,80 m²,Tp Hồ Chí Minh
+"5 PN • Hướng Tây Bắc • Nhà mặt phố, mặt tiền","16,4 tỷ",164 tr/m²,100 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 5 m,"2,35 tỷ",22 tr/m²,107 m²,Bình Dương
+Đất thổ cư • Ngang 6 m,"6,74 tỷ",104 tr/m²,65 m²,Hà Nội
+"2 PN • Nhà ngõ, hẻm",6 tỷ,171 tr/m²,35 m²,Tp Hồ Chí Minh
+1 PN • Chung cư,"2,05 tỷ",44 tr/m²,47 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","3,65 tỷ",101 tr/m²,36 m²,Tp Hồ Chí Minh
+"4 PN • Hướng Tây Nam • Nhà mặt phố, mặt tiền","7,49 tỷ",101 tr/m²,74 m²,Tp Hồ Chí Minh
+"5 PN • Nhà mặt phố, mặt tiền","16,5 tỷ",139 tr/m²,119 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,9 tỷ",111 tr/m²,44 m²,Tp Hồ Chí Minh
+"5 PN • Nhà ngõ, hẻm","5,49 tỷ",86 tr/m²,64 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","2,6 tỷ",130 tr/m²,20 m²,Tp Hồ Chí Minh
+"3 PN • Hướng Đông • Nhà ngõ, hẻm","5,6 tỷ",175 tr/m²,32 m²,Hà Nội
+"2 PN • Hướng Tây Nam • Nhà ngõ, hẻm","3,45 tỷ",69 tr/m²,50 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","3,6 tỷ",55 tr/m²,65 m²,Tp Hồ Chí Minh
+Đất nền dự án • Ngang 4 m,"2,49 tỷ",31 tr/m²,82 m²,Bình Dương
+2 PN • Chung cư,"5,9 tỷ",82 tr/m²,72 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 6.25 m,"2,208 tỷ","4,9 tr/m²",453 m²,Bình Dương
+"2 PN • Nhà mặt phố, mặt tiền",10 tỷ,139 tr/m²,72 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","2,99 tỷ",42 tr/m²,72 m²,Bình Dương
+"2 PN • Hướng Đông • Nhà mặt phố, mặt tiền","9,8 tỷ",115 tr/m²,85 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Tây • Nhà mặt phố, mặt tiền","9,5 tỷ",91 tr/m²,104 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","3,5 tỷ",58 tr/m²,60 m²,Bình Dương
+"2 PN • Nhà ngõ, hẻm","5,2 tỷ",130 tr/m²,40 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,"2,3 tỷ",32 tr/m²,73 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 5 m,"4,35 tỷ",48 tr/m²,90 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 5 m,6 tỷ,86 tr/m²,70 m²,Hà Nội
+Đất thổ cư • Ngang 6 m,"1,9 tỷ","3,9 tr/m²",490 m²,Bà Rịa - Vũng Tàu
+Đất thổ cư • Ngang 7 m,"11,5 tỷ",125 tr/m²,92 m²,Hà Nội
+"nhiều hơn 10 PN • Nhà ngõ, hẻm",18 tỷ,103 tr/m²,175 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 10 m,"3,15 tỷ",14 tr/m²,225 m²,Phú Yên
+"2 PN • Nhà ngõ, hẻm","4,65 tỷ",150 tr/m²,31 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","3,6 tỷ",78 tr/m²,46 m²,Tp Hồ Chí Minh
+"4 PN • Nhà mặt phố, mặt tiền","13,88 tỷ",59 tr/m²,234 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 4 m,"3,65 tỷ",52 tr/m²,70 m²,Bình Dương
+Đất nông nghiệp • Ngang 14 m,"6,6 tỷ",11 tr/m²,608 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,25 tỷ",85 tr/m²,50 m²,Đà Nẵng
+"6 PN • Nhà mặt phố, mặt tiền",13 tỷ,203 tr/m²,64 m²,Hà Nội
+Đất thổ cư • Ngang 5 m,"4,55 tỷ",46 tr/m²,100 m²,Bình Dương
+4 PN • Nhà phố liền kề,7 tỷ,95 tr/m²,74 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,"3,8 tỷ",49 tr/m²,78 m²,Tp Hồ Chí Minh
+"5 PN • Nhà ngõ, hẻm",6 tỷ,75 tr/m²,80 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Đông Nam • Nhà ngõ, hẻm","1,25 tỷ",26 tr/m²,49 m²,Cần Thơ
+"3 PN • Nhà ngõ, hẻm","2,8 tỷ","2,1 tr/m²",1336 m²,Bình Dương
+"4 PN • Hướng Tây Bắc • Nhà ngõ, hẻm",5 tỷ,137 tr/m²,37 m²,Hà Nội
+"9 PN • Nhà ngõ, hẻm","9,6 tỷ",213 tr/m²,45 m²,Tp Hồ Chí Minh
+"2 PN • Nhà mặt phố, mặt tiền","12,5 tỷ",116 tr/m²,108 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 5 m,450 triệu,"3,3 tr/m²",136 m²,Đồng Nai
+"2 PN • Nhà ngõ, hẻm","4,45 tỷ",135 tr/m²,33 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","2,25 tỷ",34 tr/m²,66 m²,Bình Dương
+Đất thổ cư,"1,55 tỷ",22 tr/m²,69 m²,Hải Phòng
+3 PN • Hướng Đông Nam • Chung cư,"8,7 tỷ",66 tr/m²,132 m²,Hà Nội
+"5 PN • Nhà ngõ, hẻm",7 tỷ,97 tr/m²,72 m²,Tp Hồ Chí Minh
+"3 PN • Hướng Đông Nam • Nhà ngõ, hẻm","7,5 tỷ",197 tr/m²,38 m²,Hà Nội
+"2 PN • Hướng Bắc • Nhà ngõ, hẻm","1,55 tỷ",14 tr/m²,108 m²,Đồng Nai
+Đất thổ cư • Ngang 7.6 m,"18,5 tỷ",119 tr/m²,155 m²,Đà Nẵng
+"2 PN • Nhà mặt phố, mặt tiền","1,2 tỷ","5,9 tr/m²",202 m²,Long An
+"2 PN • Nhà ngõ, hẻm","3,5 tỷ",63 tr/m²,56 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,"1,6 tỷ",31 tr/m²,52 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","5,8 tỷ",116 tr/m²,50 m²,Tp Hồ Chí Minh
+"3 PN • Hướng Đông Bắc • Nhà mặt phố, mặt tiền","2,9 tỷ","4,8 tr/m²",600 m²,Lâm Đồng
+"3 PN • Nhà ngõ, hẻm",4 tỷ,50 tr/m²,80 m²,Tp Hồ Chí Minh
+Mặt bằng kinh doanh • Hoàn thiện cơ bản,"17,5 tỷ",206 m²,,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 4 m,"6,5 tỷ",130 tr/m²,50 m²,Hà Nội
+"3 PN • Hướng Tây Nam • Nhà mặt phố, mặt tiền","13,89 tỷ",59 tr/m²,237 m²,Tp Hồ Chí Minh
+"6 PN • Nhà ngõ, hẻm","10,75 tỷ",195 tr/m²,55 m²,Hà Nội
+2 PN • Hướng Đông • Nhà phố liền kề,"3,3 tỷ",92 tr/m²,36 m²,Tp Hồ Chí Minh
+2 PN • Chung cư,"2,45 tỷ",38 tr/m²,65 m²,Tp Hồ Chí Minh
+"5 PN • Nhà ngõ, hẻm","5,2 tỷ",52 tr/m²,100 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Tây Nam • Nhà ngõ, hẻm","3,65 tỷ",147 tr/m²,25 m²,Tp Hồ Chí Minh
+"5 PN • Nhà ngõ, hẻm","7,35 tỷ",184 tr/m²,40 m²,Tp Hồ Chí Minh
+"3 PN • Nhà mặt phố, mặt tiền","6,3 tỷ",53 tr/m²,118 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 5 m,"4,85 tỷ",44 tr/m²,110 m²,Đà Nẵng
+"9 PN • Nhà mặt phố, mặt tiền","13,7 tỷ",280 tr/m²,49 m²,Hà Nội
+"3 PN • Nhà ngõ, hẻm","4,9 tỷ",153 tr/m²,32 m²,Hà Nội
+Đất thổ cư • Ngang 9 m,"9,45 tỷ",56 tr/m²,168 m²,Đà Nẵng
+"4 PN • Nhà ngõ, hẻm",6 tỷ,88 tr/m²,68 m²,Tp Hồ Chí Minh
+"1 PN • Nhà mặt phố, mặt tiền","8,5 tỷ",79 tr/m²,108 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","10,8 tỷ",138 tr/m²,78 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm",6 tỷ,75 tr/m²,80 m²,Tp Hồ Chí Minh
+"1 PN • Nhà ngõ, hẻm",4 tỷ,174 tr/m²,23 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","4,3 tỷ",77 tr/m²,56 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","10,2 tỷ",304 tr/m²,34 m²,Tp Hồ Chí Minh
+"4 PN • Nhà ngõ, hẻm","5,75 tỷ",115 tr/m²,50 m²,Tp Hồ Chí Minh
+2 PN • Hướng Đông • Nhà phố liền kề,"3,85 tỷ",80 tr/m²,48 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Đông Bắc • Nhà ngõ, hẻm","2,68 tỷ",81 tr/m²,33 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 4.5 m,"4,2 tỷ",99 tr/m²,43 m²,Hà Nội
+"4 PN • Nhà ngõ, hẻm","5,95 tỷ",99 tr/m²,60 m²,Tp Hồ Chí Minh
+"2 PN • Nhà ngõ, hẻm","3,2 tỷ",47 tr/m²,68 m²,Bình Dương
+Đất thổ cư • Ngang 5 m,"1,2 tỷ",12 tr/m²,100 m²,Đắk Lắk
+Đất thổ cư • Ngang 5 m,"1,25 tỷ",10 tr/m²,120 m²,Đà Nẵng
+Đất thổ cư • Ngang 5 m,200 triệu,"1,1 tr/m²",190 m²,Bình Dương
+"4 PN • Nhà ngõ, hẻm","5,95 tỷ",106 tr/m²,56 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Đông • Nhà ngõ, hẻm","3,5 tỷ",80 tr/m²,44 m²,Tp Hồ Chí Minh
+"2 PN • Hướng Đông • Nhà mặt phố, mặt tiền","4,1 tỷ",205 tr/m²,20 m²,Tp Hồ Chí Minh
+"5 PN • Nhà ngõ, hẻm","5,6 tỷ",70 tr/m²,80 m²,Tp Hồ Chí Minh
+Đất thổ cư • Ngang 10 m,9 tỷ,50 tr/m²,180 m²,Đà Nẵng
+"6 PN • Hướng Nam • Nhà mặt phố, mặt tiền","14,3 tỷ",132 tr/m²,108 m²,Tp Hồ Chí Minh
+"3 PN • Nhà ngõ, hẻm","4,7 tỷ",102 tr/m²,46 m²,Hà Nội
+"2 PN • Nhà ngõ, hẻm",2 tỷ,50 tr/m²,40 m²,Tp Hồ Chí Minh
+"4 PN • Hướng Tây Nam • Nhà mặt phố, mặt tiền","7,85 tỷ",117 tr/m²,67 m²,Tp Hồ Chí Minh
+Đất thổ cư,1 tỷ,"8,7 tr/m²",115 m²,Bình Dương
+"3 PN • Hướng Đông Nam • Nhà ngõ, hẻm","6,05 tỷ",101 tr/m²,60 m²,Tp Hồ Chí Minh
+"3 PN • Hướng Tây • Nhà ngõ, hẻm","6,8 tỷ",179 tr/m²,38 m²,Tp Hồ Chí Minh
+"5 PN • Nhà ngõ, hẻm","7,6 tỷ",93 tr/m²,82 m²,Tp Hồ Chí Minh
+"6 PN • Nhà mặt phố, mặt tiền","11,5 tỷ",280 tr/m²,41 m²,Hà Nội
