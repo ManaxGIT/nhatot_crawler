@@ -6,7 +6,7 @@ import re
 import threading
 
 BASE_SCRIPT_DIR1 = os.path.join(os.getcwd(), "thread")
-BASE_SCRIPT_DIR2 = os.path.join(os.getcwd(), "scraped_scripts")
+BASE_SCRIPT_DIR2 = os.path.join(os.getcwd(), "scripts")
 
 SCRIPT_MAP = {
     "Nhà ở": os.path.join(BASE_SCRIPT_DIR1, "thread_nha.py"),
