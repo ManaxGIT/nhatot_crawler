@@ -24,8 +24,8 @@ This tool helps automate the process of collecting real estate data for research
     cd nhatot_crawler
 ```
 
-### 2. Create and activate a virtual environment
-*(optional but strongly recommended):*
+### 2. Create and activate a virtual environment:
+*(optional but strongly recommended)*
 
 * #### create virtual environment
 ```bash
