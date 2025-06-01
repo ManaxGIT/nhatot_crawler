@@ -17,7 +17,7 @@ This tool helps automate the process of collecting real estate data for research
 
 ## 🛠 Installation
 
-### 1. Clone the repository:
+<b>1. Clone the repository:</b>
 
 ```bash
     git clone https://github.com/ManaxGIT/nhatot_crawler
@@ -77,13 +77,13 @@ nhatot-crawler/
 
 ## 🚀 Use manual
 * ### If you don't have the link file (which you usually are)
-  * Access [Nhatot.com](https://nhatot.com). From *Danh mục*, select either *căn hộ/chung cư*, *nhà ở*, *đẩt*. Copy the link
-  * Input the link into *Link danh mục tin*.
-  * Choose number of pages you want to get data from in *Số trang cần crawl*.
-  * Input the name of the output link file into *Tên file CSV của link*. This could be reuse later.
-  * Input the name of the file which data are saved into *Tên file sau khi scrape*.
-  * Select *Loại dữ liệu* same as the website link you copied before.
-  * Click *Bắt đầu* button
+  - Access [Nhatot.com](https://nhatot.com). From *Danh mục*, select either *căn hộ/chung cư*, *nhà ở*, *đẩt*. Copy the link
+  - Input the link into *Link danh mục tin*.
+  - Choose number of pages you want to get data from in *Số trang cần crawl*.
+  - Input the name of the output link file into *Tên file CSV của link*. This could be reuse later.
+  - Input the name of the file which data are saved into *Tên file sau khi scrape*.
+  - Select *Loại dữ liệu* same as the website link you copied before.
+  - Click *Bắt đầu* button
 
 * ### If you already have the link file
   - Change mode to *Chỉ scrape từ link đã có*.
