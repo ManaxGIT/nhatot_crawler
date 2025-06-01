@@ -1,3 +1,4 @@
+import sys
 import tkinter as tk
 from tkinter import ttk, messagebox
 import subprocess
@@ -19,14 +20,23 @@ CRAWLER_SCRIPT = os.path.join(BASE_SCRIPT_DIR2, "link_gathering.py")
 def run_script(selected_type, link_file_name, output_file_name, crawl_url, max_pages, mode, progress, btn):
     def task():
         folder = os.getcwd()
-        link_file = os.path.join(folder, link_file_name)
-        output_file = os.path.join(folder, output_file_name)
+
+        link_folder = os.path.join(os.getcwd(), "link_output")
+        output_folder = os.path.join(os.getcwd(), "scraped_data")
+
+        link_file = os.path.join(link_folder, link_file_name)
+        output_file = os.path.join(output_folder, output_file_name)
 
         if mode == "crawl_and_scrape":
             with open(CRAWLER_SCRIPT, 'r', encoding='utf-8') as f:
                 crawler_content = f.read()
 
-            crawler_content = re.sub(r"output_file\s*=\s*['\"].*?['\"]", f"output_file='{link_file_name}'", crawler_content)
+            crawler_content = re.sub(
+                r"(output_file\s*=\s*)['\"].*?['\"]",
+                lambda m: m.group(1) + repr(link_file),
+                crawler_content
+            )
+
             crawler_content = re.sub(r"max_pages\s*=\s*\d+", f"max_pages={max_pages}", crawler_content)
             crawler_content = re.sub(r"https://www\.nhatot\.com/mua-ban-nha-dat", crawl_url, crawler_content)
 
@@ -38,7 +48,7 @@ def run_script(selected_type, link_file_name, output_file_name, crawl_url, max_p
 
             try:
                 print(f"▶️ Đang chạy crawler từ {crawl_url} với {max_pages} trang...")
-                subprocess.run(["python", temp_crawler], check=True)
+                subprocess.run([sys.executable, temp_crawler], check=True)
             except subprocess.CalledProcessError as e:
                 messagebox.showerror("Lỗi", f"Crawler lỗi:\n{e}")
                 progress.stop()
@@ -53,14 +63,17 @@ def run_script(selected_type, link_file_name, output_file_name, crawl_url, max_p
         with open(script_file, 'r', encoding='utf-8') as f:
             script_content = f.read()
 
-        script_content = re.sub(r"input_file\s*=\s*r?['\"].*?['\"]",
-                                f"input_file = r{repr(link_file)}", script_content)
-        
-        script_content = re.sub(r"output_file\s*=\s*r?['\"].*?['\"]",
-                                f"output_file = r{repr(output_file)}", script_content)
+        script_content = re.sub(
+            r"input_file\s*=\s*r?['\"].*?['\"]",
+            f"input_file = r{repr(link_file)}", script_content
+        )
 
-        script_file = SCRIPT_MAP[selected_type]
-        script_name = os.path.basename(script_file)  
+        script_content = re.sub(
+            r"output_file\s*=\s*r?['\"].*?['\"]",
+            f"output_file = r{repr(output_file)}", script_content
+        )
+
+        script_name = os.path.basename(script_file)
         temp_script = os.path.join(folder, f"temp_{script_name}")
 
         with open(temp_script, 'w', encoding='utf-8') as f:
@@ -68,7 +81,7 @@ def run_script(selected_type, link_file_name, output_file_name, crawl_url, max_p
 
         try:
             print(f"▶️ Đang scrape dữ liệu từ {link_file} ...")
-            subprocess.run(["python", temp_script], check=True)
+            subprocess.run([sys.executable, temp_script], check=True)
             messagebox.showinfo("Thành công", f"🎉 Dữ liệu đã được lưu tại:\n{output_file_name}")
         except subprocess.CalledProcessError as e:
             messagebox.showerror("Lỗi", f"Script scrape lỗi:\n{e}")
@@ -83,6 +96,7 @@ def run_script(selected_type, link_file_name, output_file_name, crawl_url, max_p
 
 # GUI
 root = tk.Tk()
+
 root.title("Tool Crawl Dữ Liệu NhaTot.com")
 root.geometry("700x550")  # giảm chiều cao vì bỏ console
 root.configure(bg="#f9f9f9")
