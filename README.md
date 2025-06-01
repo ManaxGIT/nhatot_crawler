@@ -54,29 +54,35 @@ This tool helps automate the process of collecting real estate data for research
 ```
 nhatot-crawler/
 │
-├── scripts/               # 
-│   ├── home_gathering.py  #
-│   ├── link_gathering.py  #
-│   ├── output_can_ho.py   # 
-│   ├── output_dat.py      # 
-│   └── output_nha_o.py    # 
+├── scripts/               # Include all crawl script files
+│   ├── home_gathering.py  # Use to crawl informations on home page
+│   ├── link_gathering.py  # Use to crawl links on home page
+│   ├── output_can_ho.py   # Crawl Can Ho informations
+│   ├── output_dat.py      # Crawl Dat informations 
+│   └── output_nha_o.py    # Crawl Nha O informations
 │
 ├── link_output/           # link-output location
 │
-├── scraped_output/        # real estate data output location
+├── scraped_data/        # real estate data output location
 │
-├── thread/                # 
+├── thread/                # Contain logic to increase productivity
 │
 ├── GUI.py                 # GUI of the tool
 ├── requirements.txt       # Python package dependencies
 ├── INSTRUCTION.docx       # Tool logic explaination
-└── README.md              # Project documentation
+└── README.md              # Project guide
 ```
 
 ---
 
 ## 🚀 Use manual
-* ### If you don't have the link file (which you usually are)
+
+* run the GUI
+```bash
+    python3 GUI.py
+```
+
+* <b>If you don't have the link file (which you usually are)</b>
   - Access [Nhatot.com](https://nhatot.com). From *Danh mục*, select either *căn hộ/chung cư*, *nhà ở*, *đẩt*. Copy the link
   - Input the link into *Link danh mục tin*.
   - Choose number of pages you want to get data from in *Số trang cần crawl*.
@@ -85,7 +91,7 @@ nhatot-crawler/
   - Select *Loại dữ liệu* same as the website link you copied before.
   - Click *Bắt đầu* button
 
-* ### If you already have the link file
+* <b>If you already have the link file</b>
   - Change mode to *Chỉ scrape từ link đã có*.
   - Input link file location into *Tên file CSV của link*
   - Input the name of the file which data are saved into *Tên file sau khi scrape*.
