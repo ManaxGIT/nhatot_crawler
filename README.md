@@ -24,7 +24,7 @@ This tool helps automate the process of collecting real estate data for research
     cd nhatot_crawler
 ```
 
-### 2. Create and activate a virtual environment:
+<b>2. Create and activate a virtual environment:</b>
 *(optional but strongly recommended)*
 
 * #### create virtual environment
@@ -41,7 +41,7 @@ This tool helps automate the process of collecting real estate data for research
         venv\Scripts\activate.bat
         ```
 
-### 3. Install dependencies:
+<b>3. Install dependencies:</b>
 
 ```bash
     pip install -r requirements.txt
