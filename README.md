@@ -86,11 +86,11 @@ nhatot-crawler/
   * Click *Bắt đầu* button
 
 * ### If you already have the link file
-  * Change mode to *Chỉ scrape từ link đã có*.
-  * Input link file location into *Tên file CSV của link*
-  * Input the name of the file which data are saved into *Tên file sau khi scrape*.
-  * Select *Loại dữ liệu* same as the inputted link file.
-  * Click *Bắt đầu* button
+  - Change mode to *Chỉ scrape từ link đã có*.
+  - Input link file location into *Tên file CSV của link*
+  - Input the name of the file which data are saved into *Tên file sau khi scrape*.
+  - Select *Loại dữ liệu* same as the inputted link file.
+  - Click *Bắt đầu* button
 
 ---
 
