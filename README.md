@@ -27,11 +27,11 @@ This tool helps automate the process of collecting real estate data for research
 <b>2. Create and activate a virtual environment:</b>
 *(optional but strongly recommended)*
 
-* #### create virtual environment
+* create virtual environment
 ```bash
     python -m venv .venv
 ```
-* #### run virtual environment
+* run virtual environment
     * MacOS/Linux user
         ```bash
         source .venv/bin/activate
