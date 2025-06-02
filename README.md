@@ -63,7 +63,7 @@ nhatot-crawler/
 │
 ├── link_output/           # link-output location
 │
-├── scraped_data/        # real estate data output location
+├── scraped_data/          # real estate data output location
 │
 ├── thread/                # Contain logic to increase productivity
 │
