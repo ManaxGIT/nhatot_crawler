@@ -70,7 +70,8 @@ nhatot-crawler/
 ├── GUI.py                 # GUI of the tool
 ├── requirements.txt       # Python package dependencies
 ├── INSTRUCTION.docx       # Tool logic explaination
-└── README.md              # Project guide
+├── HỌC MÁY 1.1.pptx       # Project's slide
+└── README.md              # Project's guide
 ```
 
 ---
